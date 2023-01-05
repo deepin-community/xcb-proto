@@ -1,3 +1,9 @@
+xcb-proto (1.14.1-2) unstable; urgency=medium
+
+  * fix up PYTHON_PREFIX not defined in xcb-proto.pc.in
+
+ -- Deepin Packages Builder <packages@deepin.org>  Thu, 05 Jan 2023 18:09:21 +0800
+
 xcb-proto (1.14.1-1) UNRELEASED; urgency=medium
 
   * update
