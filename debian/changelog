@@ -1,3 +1,25 @@
+xcb-proto (1.17.0-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Update signing-key.asc.
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Thu, 18 Apr 2024 13:35:17 +0300
+
+xcb-proto (1.16.0-1) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Update watch file format version to 4.
+  * Bump debhelper from old 12 to 13.
+  * Update standards version to 4.6.0, no changes needed.
+  * Check upstream PGP signatures.
+  * Update standards version to 4.6.1, no changes needed.
+  * Update standards version to 4.6.2, no changes needed.
+
+  [ Timo Aaltonen ]
+  * New upstream release.
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Thu, 08 Feb 2024 09:10:55 +0200
+
 xcb-proto (1.15.2-1) unstable; urgency=medium
 
   * New upstream release.
